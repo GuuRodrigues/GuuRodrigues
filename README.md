@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Olá! Meu nome é Augusto Rodrigues, e sou um desenvolvedor front-end apaixonado por criar interfaces incríveis. Com especialização em HTML, CSS e JavaScript, transformo designs em código funcional e responsivo. Acredito que a experiência do usuário é fundamental, e estou sempre em busca de soluções criativas para tornar a web mais bonita e acessível.
+My name is Augusto Rodrigues, and I'm a front-end developer passionate about creating incredible interfaces. Specializing in HTML, CSS and JavaScript, I transform designs into functional and responsive code. I believe that user experience is fundamental, and I am always looking for creative solutions to make the web more beautiful and accessible.
